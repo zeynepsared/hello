@@ -1,0 +1,273 @@
+body{
+    background-color: rgb(229, 155, 166);
+}
+
+.navbar1{
+    font-size:30px;
+    background-color:rgb(223, 210, 189);
+}
+.yatay-menu{
+    list-style: none;
+    margin-left: 1900px;
+   }
+   .yazı1{
+    float: left;
+    position: absolute;
+    left: 1000px;
+    top: 400px;
+    color:white;
+    font-size:60px;
+   }
+   .yazı2{
+    float: left;
+    position: absolute;
+    left: 996px;
+    top: 1300px;
+    color:white;
+    font-size:30px;
+   }
+   .yazı3{
+    float: left;
+    position: absolute;
+    left: 900px;
+    top: 3000px;
+    color:white;
+    font-size:35px;
+    z-index: 0;
+   }
+   .yazı4{
+    float: left;
+    position: absolute;
+    left: 970px;
+    top: 3050px;
+    color:white;
+    font-size:20px;
+   }
+
+.çizgi{
+    float: left;
+    position: absolute;
+    left: 996px;
+    top: 1380px;
+    color:white; 
+}
+
+
+
+   ul {
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+
+    padding:12px 16px;
+
+   background-color: rgb(230, 61, 86);
+
+    color:white;
+
+    text-decoration:none; 
+}
+li a:hover{
+   background-color: rgb(223, 210, 189) ;
+}
+.link1{
+    float: left;
+    position: absolute;
+    left: 400px;
+    top: 1500px; 
+    color:white; 
+
+    background-color: rgb(190, 177, 156) ;
+}
+.link2{
+    float: left;
+    position: absolute;
+    left: 1100px;
+    top: 1500px; 
+    color:white; 
+
+    background-color: rgb(190, 177, 156) ;
+}
+.link3{
+    float: left;
+    position: absolute;
+    left: 1800px;
+    top: 1500px; 
+    color:white; 
+
+    background-color: rgb(190, 177, 156) ;
+}
+.link4{
+    float: left;
+    position: absolute;
+    left: 300px;
+    top:2000px; 
+    color:white; 
+
+    background-color: rgb(190, 177, 156) ;
+}
+.link5{
+    float: left;
+    position: absolute;
+    left: 1100px;
+    top: 2000px; 
+    color:white; 
+
+    background-color: rgb(190, 177, 156) ;
+}
+.link6{
+    float: left;
+    position: absolute;
+    left: 1800px;
+    top: 2000px; 
+    color:white; 
+
+    background-color: rgb(190, 177, 156) ;
+}
+.buton1{
+    font-size:30px;
+    float: left;
+    position: absolute;
+    left: 1000px;
+    top: 2600px;
+    width:300px;
+    height:50px;
+}
+.resim1{
+    width:400px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 1550px; 
+}
+.resim2{
+    width:400px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 1000px;
+    top: 1550px; 
+}
+.resim3{
+    width:400px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 1700px;
+    top: 1550px; 
+}
+.resim4{
+    width:400px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 250px;
+    top: 2050px; 
+
+}
+.resim5{
+    width:400px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 1000px;
+    top: 2050px; 
+}
+.resim6{
+    width:400px;
+    height:400px;
+    float: left;
+    position: absolute;
+    left: 1700px;
+    top: 2050px; 
+}
+
+
+
+.çizgi2{
+    float: left;
+    position: absolute;
+    left: 10px;
+    top: 4000px;
+    color:white; 
+}
+.fa-facebook-square{
+    float: left;
+    position: absolute;
+    left: 600px;
+    top: 3300px;
+    color:white;
+    font-size:60px;
+}
+.fa-github{
+    float: left;
+    position: absolute;
+    left: 800px;
+    top: 3300px;
+    color:white;
+    font-size: 60;
+}
+.fa-twitter{
+    float: left;
+    position: absolute;
+    left: 1000px;
+    top: 3300px;
+    color:white;
+    font-size: 60;
+}
+.fa-at{
+    float: left;
+    position: absolute;
+    left: 1200px;
+    top: 3300px;
+    color:white;
+    font-size: 60;
+}
+.fa-mobile-screen-button{
+    float: left;
+    position: absolute;
+    left: 1500px;
+    top: 3300px;
+    color:white;
+    font-size: 60;
+}
+
+.simge2{
+    background-color: rgb(223, 210, 189);
+    float: left;
+    position: absolute;
+    left: 40px;
+    top: 3000px;
+    width: 2250px;
+    height: 800px;
+    z-index:-1 ;
+}
+.simge{
+    float: left;
+    position: absolute;
+    left: 10px;
+    top: 100px;
+    z-index:0 ;
+}
+
+.altyazı{
+    float: left;
+    position: absolute;
+    left: 40px;
+    top: 3700px;
+    background-color: rgb(230, 61, 86);
+    width: 2250px;
+    height: 50px;
+}
